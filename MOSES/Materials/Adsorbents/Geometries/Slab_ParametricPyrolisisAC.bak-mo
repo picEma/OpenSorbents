@@ -1,0 +1,7 @@
+within MOSES.Materials.Adsorbents.Geometries;
+
+model Slab_ParametricPyrolisisAC
+
+
+
+end Slab_ParametricPyrolisisAC;
